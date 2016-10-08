@@ -11,10 +11,6 @@ efeu.svg:
 http://commons.wikimedia.org/wiki/File:Anonymous_emblem.svg
 license: public domain
 
-loop.svg:
-http://de.wikipedia.org/wiki/Datei:Hello_Kitty_logo.svg
-license: unknown (domain of wikipedia.org)
-
 message.svg:
 http://commons.wikimedia.org/wiki/File:Messages_Yosemite.svg
 license: CC BY-SA 4.0, artwork uploaded to wikipedia by Chabe01, Source: own work
