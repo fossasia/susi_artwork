@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4215"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 467.000000 348.000000"
+   height="348.000000pt"
+   width="467.000000pt"
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Susi_BG_b.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1367"
+     inkscape:window-height="784"
+     id="namedview4185"
+     showgrid="false"
+     inkscape:zoom="1.0850575"
+     inkscape:cx="291.875"
+     inkscape:cy="217.5"
+     inkscape:window-x="50"
+     inkscape:window-y="5"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4215" />
+  <metadata
+     id="metadata4227">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4225" />
+  <path
+     d="M 124.8,10.7 16,11 10.5,19.5 5,28.1 l 0,60.5 0,60.6 5.6,7.9 5.5,7.9 111.2,0 111.3,0 106.9,75.1 c 58.9,41.4 108,75.8 109.3,76.6 l 2.2,1.5 0,-154.1 0,-154.1 -111.7,0.2 c -61.5,0.2 -160.7,0.4 -220.5,0.5 z"
+     id="path4219"
+     style="fill:#0080c0;stroke:none" />
+  <path
+     d="m 10.5,193.5 -5.5,8.6 0,60.5 0,60.6 5.6,7.9 5.5,7.9 439.7,-0.5 L 346.7,261.7 237.6,185 126.8,185 16,185 Z"
+     id="path4221"
+     style="fill:#0080c0;stroke:none"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccc" />
+</svg>
