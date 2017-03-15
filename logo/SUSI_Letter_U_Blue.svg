@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="233.60001pt"
+   height="279.18771pt"
+   viewBox="0 0 233.60001 279.18771"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SUSI_Letter_U_Blue.svg">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1226"
+     inkscape:window-height="713"
+     id="namedview18"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.32960663"
+     inkscape:cx="210.125"
+     inkscape:cy="175.23464"
+     inkscape:window-x="37"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#0080c0;stroke:none"
+     inkscape:connector-curvature="0"
+     id="path8"
+     d="M 4.3,4.3 0,8.6 l 0.3,103 c 0.4,113.2 0,105.9 6.4,118.6 10.8,21.3 35.1,41.9 56.2,47.3 8.5,2.3 99.1,2.2 107.7,0 18.7,-4.9 39.2,-20.7 51.5,-39.7 3.4,-5.1 7.1,-12.2 8.3,-15.8 l 2.2,-6.5 0.5,-103.3 L 233.6,8.9 229.1,4.5 224.5,0 193,0 l -31.5,0 -4.7,4.8 -4.7,4.8 0,93 0,93 -3.3,3.2 -3.3,3.2 -29,0 -29,0 -2.6,-2.7 -2.7,-2.8 L 81.5,102.3 80.8,8.1 76.5,4.1 72.3,0 40.4,0 8.5,0 4.3,4.3 Z" />
+</svg>
