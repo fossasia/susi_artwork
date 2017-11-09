@@ -1,4 +1,6 @@
-# Susi Artwork
+# SUSI.AI Artwork
+
+SUSI stands for Super User Support Intelligence.
 
 This repository contains media, images, video and any artwork for the susi AI project.
 
