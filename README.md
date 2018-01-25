@@ -8,9 +8,14 @@ This repository contains media, images, video and any artwork for the susi AI pr
 
 ## Colors
 
-The SUSI.AI logo uses the color
-RGB:
-CMYK: 
+The SUSI.AI logo uses the blue color
+
+RGB: 66, 133, 244
+CMYK: 73, 45, 0, 4
+HEX: #4285f4
+Websafe: #3399ff
+
+Compare color details: http://html-color.org/4285F4
 
 ## Required Media for Android App
 
