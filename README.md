@@ -4,7 +4,6 @@ SUSI stands for Super User Support Intelligence.
 
 This repository contains media, images, video and any artwork for the susi AI project.
 
-Inline-style: 
 ![alt text](/logo/png/SUSI.AI_logo.png "SUSI.AI logo")
 
 ## Colors
